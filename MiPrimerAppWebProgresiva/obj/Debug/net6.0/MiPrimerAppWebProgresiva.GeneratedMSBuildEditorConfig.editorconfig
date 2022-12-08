@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MiPrimerAppWebProgresiva
+build_property.RootNamespace = MiPrimerAppWebProgresiva
+build_property.ProjectDir = c:\Users\Equipo.ALEXABREGO21.000\OneDrive\Documentos\1001\APPWEBPRO\Work-Match\MiPrimerAppWebProgresiva\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Equipo.ALEXABREGO21.000\OneDrive\Documentos\1001\APPWEBPRO\Work-Match\MiPrimerAppWebProgresiva
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/Empresas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/Home/productos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcm9kdWN0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/IniciarSesion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lhclNlc2lvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/PaginaError/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hRXJyb3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/Persona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/Registrar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/TipoLibro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0xpYnJvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Equipo.ALEXABREGO21.000/OneDrive/Documentos/1001/APPWEBPRO/Work-Match/MiPrimerAppWebProgresiva/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ms5dhjg4pk
